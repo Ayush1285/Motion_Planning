@@ -1,4 +1,4 @@
-# Autonomous_Quadcopter
+# Quadcopter  Navigation
 In this project, we aim to develop Quadcopter system for autonomous navigation and control in obstacle cluttered environments
 ## Objectives
 * Learning and implementation of planning algorithms (A*, RRT) to autonomously navigate between multiple waypoints in 2D space.
