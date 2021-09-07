@@ -15,5 +15,13 @@ In this project, we aim to simulate motion planning for a quadcopter in cluttere
 
 ![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Dijkstra_Astar/AstarGrid.gif)
 
+**Artificial Potential Field**
+
+![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Artificial%20Potential%20field/artificial_potential.gif)
+
+**Quiver Plot for APF method**
+
+![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Artificial%20Potential%20field/quiver_plot.jpg)
+
 
 
