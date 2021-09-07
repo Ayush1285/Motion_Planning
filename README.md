@@ -24,4 +24,15 @@ In this project, we aim to simulate motion planning for a quadcopter in cluttere
 ![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Artificial%20Potential%20field/quiver_plot.jpg)
 
 
+## On-going Work
+* Integrating gmapping ROS package on quadcopter for building map of an environment.
+* Implementing localisation.
+
+
+## References
+
+* [Autonomous Navigation, Part 4: Path Planning with A* and RRT, by MATLAB](https://www.youtube.com/watch?v=QR3U1dgc5RE)
+* [A* playlist by Sebastian Lague](https://www.youtube.com/watch?v=-L-WgKMFuhE)
+* [RRT, RRT* & Random Trees by Aaron Becker](https://youtu.be/Ob3BIJkQJEw)
+* [Robotics: Computational Motion Planning ](https://www.coursera.org/learn/robotics-motion-planning/home/welcome)
 
