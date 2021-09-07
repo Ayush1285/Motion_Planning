@@ -26,7 +26,7 @@ In this project, we aim to simulate motion planning for a quadcopter in cluttere
 
 ## On-going Work
 * Integrating gmapping ROS package on quadcopter for building map of an environment.
-* Implementing localisation.
+* Implementing localisation and motion planning.
 
 
 ## References
