@@ -1,10 +1,5 @@
-# Quadcopter  Navigation
-In this project, we aim to simulate motion planning for a quadcopter in cluttered environments
-## Objectives
-* Learning and implementation of planning algorithms (A*, RRT) in 2D grid
-* Developing environment for Gazebo simulation.
-* Mapping of environment using quadcopter.
-* Generating path for a quadcopter by applying motion planning algorithms.
+# Motion Planning Algorithms
+In this project, we aim to learn and implement different motion planning algorithms.
 
 ### Path planning algorithms for point object
 **Dijkstra**
@@ -25,8 +20,7 @@ In this project, we aim to simulate motion planning for a quadcopter in cluttere
 
 
 ## On-going Work
-* Integrating gmapping ROS package on quadcopter for building map of an environment.
-* Implementing localisation and motion planning.
+* Implementing motion planning for a quadcopter in Gazebo environment.
 
 
 ## References
