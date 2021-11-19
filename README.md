@@ -19,9 +19,6 @@ In this project, we aim to learn and implement different motion planning algorit
 ![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Artificial%20Potential%20field/quiver_plot.jpg)
 
 
-## On-going Work
-* Implementing motion planning for a quadcopter in Gazebo environment.
-
 
 ## References
 
